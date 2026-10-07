@@ -2,7 +2,7 @@
 
 # 🎯 PROBLEMA
 
-Você continua fazendo parte da equipe de desenvolvimento que presta serviços de tecnologia para empresas da região.
+Você continua fazendo parte da equipe de desenvolvimento que presta  de tecnologia para empresas da região.
 
 Uma pastelaria com serviço de entrega contratou o time para desenvolver o sistema que **processa os pedidos** feitos pelos clientes.
 
